@@ -1,0 +1,14 @@
+body {
+    background-color: blueviolet;
+    width: 100vh;
+    display: inline;
+    margin: 0 auto;
+    padding: 0;
+}
+h1,p,h3 {
+    color: aqua;
+    font-size: 700;
+    font-family: sans-serif;
+    padding: 10px;
+    text-align: center;
+}
